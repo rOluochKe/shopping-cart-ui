@@ -2,9 +2,7 @@
 
 - HTML5
 - CSS3
-- Media Queries
-- Icons
-- Fonts
+- JavaScript
 
 ## Usage
 
